@@ -1,0 +1,16 @@
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\XSS_Cross_Site_BL.dll.config
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\XSS_Cross_Site_BL.dll
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\XSS_Cross_Site_BL.pdb
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\AntiXssLibrary.dll
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\EntityFramework.dll
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\HtmlSanitizationLibrary.dll
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\AntiXssLibrary.xml
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\EntityFramework.xml
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\HtmlSanitizationLibrary.xml
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\obj\Debug\XSS_Cross_Site_BL.csprojAssemblyReference.cache
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\obj\Debug\XSS_Cross_Site_BL.csproj.CoreCompileInputs.cache
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\obj\Debug\XSS_Cross_Site_BL.csproj.CopyComplete
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\obj\Debug\XSS_Cross_Site_BL.dll
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\obj\Debug\XSS_Cross_Site_BL.pdb
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sistemas\Ejemplo de XSS\XSS_Cross_Site\XSS_Cross_Site_BL\bin\Debug\EntityFramework.SqlServer.xml
